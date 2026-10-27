@@ -3,6 +3,10 @@ name: douyinvideo-copy-extract
 description: 当用户做抖音文案提取、抖音视频文案提取、抖音视频转文字、抖音口播转文字或抖音逐字稿提取时使用。支持提取音频文案、提取口播文案、理解场景描述文案。触发场景：抖音文案提取、抖音视频文案提取、抖音音频文案提取、抖音口播提取、抖音视频场景描述文案、抖音视频分析、抖音视频转文字、抖音字幕提取、抖音文案提取、扒抖音文案、抖音口播文字。调用大模型自动转写并剔除语气词、口误与重复内容，并可通过自定义 Prompt 生成总结、改写、金句提取、分镜头、中英翻译等风格化文案。
 license: MIT
 version: "1.1.0"
+display_name: 抖音文案一键提取
+display_name_en: Douyin Video Copy Extract
+description_zh: 当用户做抖音文案提取、抖音视频文案提取、抖音视频转文字、抖音口播转文字或抖音逐字稿提取时使用。支持提取音频文案、提取口播文案、理解场景描述文案。触发场景：抖音文案提取、抖音视频文案提取、抖音音频文案提取、抖音口播提取、抖音视频场景描述文案、抖音视频分析、抖音视频转文字、抖音字幕提取、抖音文案提取、扒抖音文案、抖音口播文字。调用大模型自动转写并剔除语气词、口误与重复内容，并可通过自定义 Prompt 生成总结、改写、金句提取、分镜头、中英翻译等风格化文案。
+description_en: When users perform Douyin copy extraction, Douyin video copy extraction, video-to-text transcription, voiceover-to-text transcription or verbatim transcript extraction for Douyin videos. It supports extracting audio transcripts, voiceover copy and parsing scene description texts.Trigger scenarios, Douyin copy extraction, Douyin video copy extraction, Douyin audio transcript extraction, Douyin voiceover extraction, Douyin video scene description copy, Douyin video analysis, Douyin video-to-text conversion, Douyin subtitle extraction, scrape Douyin copy, retrieve text from Douyin voiceovers.The large model is called for automatic transcription to filter out filler words, verbal slips and redundant content. Custom Prompts can be applied to generate stylized copy such as summaries, rewrites, golden quote extraction, storyboards, Chinese-English translation and more.
 metadata:
   enabled: true
   type: command
